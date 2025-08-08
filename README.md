@@ -2,7 +2,7 @@
 
 [![LayoutEditor](https://img.shields.io/badge/Download-CRC32_Editor-blue?style=for-the-badge)](https://github.com/CYRAXApps/CRC32-Editor/releases/tag/CRC32-Editor)
 
-# Preview
+# Preview ⟩
 
 <div>
 <img width="460" height="260" src="PreviewC3E.jpg" alt="Preview" title="Preview">
