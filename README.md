@@ -1,4 +1,4 @@
-# Lua Library Tool
+# CRC32 Editor 2.0
 What's New:
 
 Dynamic Theme
