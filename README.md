@@ -28,3 +28,7 @@ Better accuracy for CRC32 checksum generation and verification.
 # Description ⟩
 
 CRC32 Editor is a tool that allows users to view, modify, and validate the CRC32 checksum of files or data streams. CRC32, or Cyclic Redundancy Check, is a hashing algorithm that generates a 32-bit checksum to detect errors in transmitted or stored data. 
+
+# Official handle 👇🏻
+GitHub: https://github.com/CYRAXApp
+Telegram: https://t.me/CYRAXApps
