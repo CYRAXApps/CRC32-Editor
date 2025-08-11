@@ -1,6 +1,6 @@
 # CRC32 Editor 2.0
 
-[![LayoutEditor](https://img.shields.io/badge/Download-CRC32_Editor-blue?style=for-the-badge)](https://github.com/CYRAXApps/CRC32-Editor/releases/tag/CRC32-Editor)
+[![CRC32 Editor](https://img.shields.io/badge/Download-CRC32_Editor-blue?style=for-the-badge)](https://github.com/CYRAXApps/CRC32-Editor/releases/tag/CRC32-Editor)
 
 # Preview ⟩
 
